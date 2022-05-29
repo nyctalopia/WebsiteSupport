@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CHANGELOG
+title: Changelog / Mises à jour
 menu: true
 order: 2
 ---

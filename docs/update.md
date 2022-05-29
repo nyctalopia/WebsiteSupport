@@ -2,7 +2,7 @@
 layout: page
 title: Upgrade
 description: >
-  This documents how to update Nyctalopia to a newer version. The method depends on how you've installed Nyctalopia.
+  This page explains how to update Nyctalopia to a newer version. The method depends on how you've installed Nyctalopia.
 ---
 
 ## Table of Contents

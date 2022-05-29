@@ -7,11 +7,11 @@ description: >
 
 There are multiple ways of installing Nyctalopia.
 The easiest and cleanest way is [via Steam](#via-steam).
-Alternatively, you can use the [a provided installation media](#via-installation-media).
+Alternatively, you can use the [a provided installation media](#via-the-provided-installation-media-/-via-le-support-d'installation-fourni).
 
 Il existe plusieurs façons d'installer Nyctalopia.
 Le moyen le plus simple est [via Steam](#via-steam).
-Vous pouvez également utiliser le [support d'installation fourni](#via-installation-media).
+Vous pouvez également utiliser le [support d'installation fourni](#via-the-provided-installation-media-/-via-le-support-d'installation-fourni).
 
 ## Table of Contents
 {:.no_toc}
@@ -46,6 +46,7 @@ Well, fine...
 [CLICK ON ME TO SUMMON STEAM](steam://install/1937920)
 
 **NOTE** : This button should also work for Linux users :).
+{:.message}
 
 ### Français
 
@@ -55,6 +56,7 @@ Bon...
 [CLIQUEZ SUR MOI POUR INVOQUER STEAM](steam://install/1937920)
 
 **REMARQUE** : Ce bouton devrait également fonctionner pour les utilisateurs Linux :).
+{:.message}
 
 ## Via the provided installation media / Via le support d'installation fourni
 
@@ -150,10 +152,5 @@ Votre répertoire devrait ressembler à ceci :
 !
 {:.message}
 
-Continue with [Config](config.md){:.heading.flip-title}
+Continue with [Update](update.md){:.heading.flip-title}
 {:.read-more}
-
-
-[upgrade]: upgrade.md
-[v5to6]: upgrade.md#from-hydejack-v5
-[v6to6]: upgrade.md#from-hydejack-v6

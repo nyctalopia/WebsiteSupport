@@ -2,7 +2,7 @@
 layout: page
 title: Help / Aide
 description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+  Here you should be able to find everything you need to know about Nyctalopia.
 menu: true
 order: 1
 ---
@@ -21,7 +21,7 @@ or [upgrades for pro buyers](upgrade.md#pro-version).
 {:.hr}
 
 * [Install]{:.heading.flip-title} --- How to install Nyctalopia.
-* [Upgrade]{:.heading.flip-title} --- How to keep Nyctalopia updated.
+* [Update]{:.heading.flip-title} --- How to keep Nyctalopia updated.
 {:.related-posts.faded}
 
 ## Using Nyctalopia
@@ -36,13 +36,13 @@ or [upgrades for pro buyers](upgrade.md#pro-version).
 {:.hr}
 
 * [LICENSE]{:.heading.flip-title} --- The license of this project.
-* [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
+* [CHANGELOG]{:.heading.flip-title} --- Version history of Nyctalopia.
 {:.related-posts.faded}
 
 [install]: install.md
 [update]: update.md
 [multiplayer]: multiplayer.md
 [controls]: controls.md
-[gamepkay]: gameplay.md
-[LICENSE]: ../../LICENSE.md
-[CHANGELOG]: ../../CHANGELOG.md
+[gameplay]: gameplay.md
+[EULA]: ../../eula.md
+[CHANGELOG]: ../../changelog.md
