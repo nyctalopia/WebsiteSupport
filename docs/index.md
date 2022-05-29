@@ -7,36 +7,39 @@ menu: true
 order: 1
 ---
 
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
-Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/qwtel/hydejack/issues) on GitHub.
+Here you should be able to find everything you need to know about Nyctalopia.
+Should you think something is missing, [please let us know](mailto://support@nyctalopia.games).
 
-**NOTE**: While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
+**NOTE**: While this manual tries to be beginner-friendly, some parts require being comfortable running shell commands (especially if you are using the files provided to install Nyctalopia, do not does not apply to Steam users).
 {:.message}
 
-Buyers of the PRO version can jump straight to [installation for pro buyers](install.md#pro-version),
-or [upgrades for pro buyers](upgrade.md#pro-version).
+Ici, vous devriez pouvoir trouver tout ce que vous devez savoir sur Nyctalopia.
+Si vous pensez qu'il manque quelque chose, [veuillez nous le faire savoir](mailto://support@nyctalopia.games).
 
-## Getting started
+**REMARQUE** : Bien que ce manuel essaie d'être convivial pour les débutants, certaines parties nécessitent d'être à l'aise avec l'exécution des commandes shell (surtout si vous utilisez les fichiers fournis pour installer Nyctalopia, ne s'applique pas aux utilisateurs de Steam).
+{:.message}
+
+
+## Getting started / Pour bien démarrer
 {:.hr}
 
-* [Install]{:.heading.flip-title} --- How to install Nyctalopia.
-* [Update]{:.heading.flip-title} --- How to keep Nyctalopia updated.
+* [Install]{:.heading.flip-title} --- How to install Nyctalopia / Comment installer Nyctalopia
+* [Update]{:.heading.flip-title} --- How to keep Nyctalopia updated / Comment garder Nyctalopia à jour
 {:.related-posts.faded}
 
-## Using Nyctalopia
+## Playing Nyctalopia / Jouer à Nyctalopia
 {:.hr}
 
-* [Multiplayer]{:.heading.flip-title} --- How to enable Multiplayer
-* [Controls]{:.heading.flip-title} --- How to play Nyctalopia
-* [Gameplay]{:.heading.flip-title} --- What is this game about ?
+* [Multiplayer]{:.heading.flip-title} --- How to enable Multiplayer / Comment utiliser le multijoueur
+* [Controls]{:.heading.flip-title} --- How to play Nyctalopia / Comment jouer à Nyctalopia
+* [Gameplay]{:.heading.flip-title} --- What is this game about ? / De quoi traîte le jeu Nyctalopia ?
 {:.related-posts.faded}
 
-## Other
+## Other / Autre
 {:.hr}
 
-* [LICENSE]{:.heading.flip-title} --- The license of this project.
-* [CHANGELOG]{:.heading.flip-title} --- Version history of Nyctalopia.
+* [EULA]{:.heading.flip-title} --- Terms and Conditions of use of the Game / Licence et Conditions d'utilisation du jeu
+* [CHANGELOG]{:.heading.flip-title} --- Version history of Nyctalopia / Mises à jour de Nyctalopia
 {:.related-posts.faded}
 
 [install]: install.md
