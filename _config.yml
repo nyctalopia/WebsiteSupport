@@ -42,10 +42,10 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                gameHUB Studios
+  email:               contact@nyctalopia.games
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             nyctaIopia
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             gameHUB Studios © 2022. All rights reserved.
