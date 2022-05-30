@@ -44,19 +44,17 @@ logo:                  /assets/icons/icon.png
 author:
   name:                gameHUB Studios
   email:               contact@nyctalopia.games
-  # Used by `jekyll-seo-tag`:
-  twitter:             nyctaIopia
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             gameHUB Studios © 2022. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
-# legal:
+ legal:
 #   - title:             Impress
 #     href:              /impress/
-#   - title:             Cookies Policy
-#     href:              /cookies-policy/
+   - title:             Privacy Policy
+     href:              privacy.md
 
 # Format of the permalinks
 permalink:             pretty
@@ -141,7 +139,7 @@ hydejack:
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      false
+  cookies_banner:      true
 
 
 # Collections
