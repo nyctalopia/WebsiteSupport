@@ -50,11 +50,11 @@ copyright:             gameHUB Studios © 2022. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
- legal:
+legal:
 #   - title:             Impress
 #     href:              /impress/
-   - title:             Privacy Policy
-     href:              privacy.md
+  - title:             Privacy Policy
+    href:              privacy.md
 
 # Format of the permalinks
 permalink:             pretty
