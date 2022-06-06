@@ -54,7 +54,7 @@ legal:
 #   - title:             Impress
 #     href:              /impress/
   - title:             Privacy Policy
-    href:              privacy.md
+    href:              privacy
 
 # Format of the permalinks
 permalink:             pretty

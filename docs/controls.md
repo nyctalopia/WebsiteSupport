@@ -25,8 +25,6 @@ Use the mouse to control the camera and orient yourself.
 
 To use the flashlight, press the R key.
 
-Press I to open the inventory.
-
 ## Français
 
 **REMARQUE** : La disposition du clavier (QWERTY ou AZERTY) peut être modifiée dans l'onglet Paramètres (Menu principal uniquement).
@@ -41,8 +39,6 @@ Utilisez Shift ⇑ pour se baisser.
 Utilisez la souris pour contrôler la caméra et s'orienter.
 
 Pour utiliser la lampe torche presser la touche R.
-
-Appuyez sur I pour ouvrir l'inventaire.
 
 Continue with [Gameplay](gameplay.md){:.heading.flip-title}
 {:.read-more}

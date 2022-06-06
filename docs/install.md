@@ -127,7 +127,7 @@ $ chmod u+x InstallNyctalopia.sh
 $ ./InstallNyctalopia.sh
 ~~~
 
-**REMARQUE** : Le script InstallNyctalopia.sh n'est fourni que si vous achetez le jeu ! N'attendez rien si vous n'avez pas le fichier sur votre ordinateur !
+**REMARQUE** : Le script InstallNyctalopia.sh n'est fourni que si vous achetez le jeu ! Ces commandes ne marcheront pas si vous n'avez pas le fichier sur votre ordinateur !
 {:.message}
 
 Suivez les instructions données par l'installateur. Si quelque chose s'est mal passé lors de l'installation, vous pouvez réessayer en retapant la commande juste au-dessus !
