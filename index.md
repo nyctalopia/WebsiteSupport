@@ -20,6 +20,6 @@ description: >
 
 [help]: /docs/index.md
 [EULA]: eula.md
-[Nyctalopia]: https://nyctalopia.games
-[Email]: mailto://support@nyctalopia.games
+[Nyctalopia]: https://nyctalopia.hugofnm.fr
+[Email]: mailto://support@hugofnm.fr
 [Twitter]: https://twitter.com/nyctaIopia

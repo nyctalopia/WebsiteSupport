@@ -23,9 +23,9 @@ description: >
 
 **Nyctalopia, by gameHUB Studios**
 Toulouse, France
-© gameHUB Studios. All rights reserved.
+© gameHUB Studios, a subsidiary of MetrixMedia. All rights reserved.
 {:.message}
 
 [EULA]: eula.md
 [Privacy]: privacy.md
-[Email]: mailto://legal@nyctalopia.games
+[Email]: mailto://legal@metrixmedia.fr

@@ -63,7 +63,7 @@ Vous serez ensuite redirigé vers le lobby.
 
 ### English 
 
-To get multiplayer mode in Nyctalopia, you need to get Steam first using this link : [Download Steam](store.steampowered.com/about/).
+To get multiplayer mode in Nyctalopia, you need to get Steam first using this link : [Download Steam](https://store.steampowered.com/about/).
 
 As well as creating a Steam account. 
 
@@ -85,7 +85,7 @@ You will be, after that, redirected to the lobby.
 
 ### Français
 
-Pour obtenir le mode multijoueur dans Nyctalopia, vous devez obtenir tout d'abord Steam à l'aide de ce lien : [Télécharger Steam](store.steampowered.com/about/). 
+Pour obtenir le mode multijoueur dans Nyctalopia, vous devez obtenir tout d'abord Steam à l'aide de ce lien : [Télécharger Steam](https://store.steampowered.com/about/). 
 
 Ensuite, vous devez créer un compte Steam (gratuit). 
 

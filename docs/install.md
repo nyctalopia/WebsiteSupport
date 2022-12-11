@@ -7,11 +7,11 @@ description: >
 
 There are multiple ways of installing Nyctalopia.
 The easiest and cleanest way is [via Steam](#via-steam).
-Alternatively, you can use the [a provided installation media](#via-the-provided-installation-media-/-via-le-support-d'installation-fourni).
+Alternatively, you can use the [a provided installation media](#via-the-provided-installation-media--via-le-support-dinstallation-fourni).
 
 Il existe plusieurs façons d'installer Nyctalopia.
 Le moyen le plus simple est [via Steam](#via-steam).
-Vous pouvez également utiliser le [support d'installation fourni](#via-the-provided-installation-media-/-via-le-support-d'installation-fourni).
+Vous pouvez également utiliser le [support d'installation fourni](#via-the-provided-installation-media--via-le-support-dinstallation-fourni).
 
 ## Table of Contents
 {:.no_toc}
@@ -113,7 +113,7 @@ Your directory should look like this :
             └── Some important files
 ~~~
 
-**NOTE**: If a file is missing, please delete the directory and reinstall. If the problem persists, please contact us here: [support@nyctalopia.games](mailto://support@nyctalopia.games).
+**NOTE**: If a file is missing, please delete the directory and reinstall. If the problem persists, please contact us here: [support@nyctalopia.games](mailto://support@support@hugofnm.fr).
 !
 {:.message}
 
@@ -148,7 +148,7 @@ Votre répertoire devrait ressembler à ceci :
             └── Quelques fichiers importants
 ~~~
 
-**REMARQUE** : Si un fichier est manquant, veuillez supprimer le répertoire et refaire l'installation. Si le problème persiste, veuillez nous contacter ici : [support@nyctalopia.games](mailto://support@nyctalopia.games).
+**REMARQUE** : Si un fichier est manquant, veuillez supprimer le répertoire et refaire l'installation. Si le problème persiste, veuillez nous contacter ici : [support@nyctalopia.games](mailto://support@support@hugofnm.fr).
 !
 {:.message}
 

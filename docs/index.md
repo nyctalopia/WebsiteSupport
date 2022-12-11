@@ -8,13 +8,13 @@ order: 1
 ---
 
 Here you should be able to find everything you need to know about Nyctalopia.
-Should you think something is missing, [please let us know](mailto://support@nyctalopia.games).
+Should you think something is missing, [please let us know](mailto://support@hugofnm.fr).
 
 **NOTE**: While this manual tries to be beginner-friendly, some parts require being comfortable running shell commands (especially if you are using the files provided to install Nyctalopia, do not does not apply to Steam users).
 {:.message}
 
 Ici, vous devriez pouvoir trouver tout ce que vous devez savoir sur Nyctalopia.
-Si vous pensez qu'il manque quelque chose, [veuillez nous le faire savoir](mailto://support@nyctalopia.games).
+Si vous pensez qu'il manque quelque chose, [veuillez nous le faire savoir](mailto://support@hugofnm.fr).
 
 **REMARQUE** : Bien que ce manuel essaie d'être convivial pour les débutants, certaines parties nécessitent d'être à l'aise avec l'exécution des commandes shell (surtout si vous utilisez les fichiers fournis pour installer Nyctalopia, ne s'applique pas aux utilisateurs de Steam).
 {:.message}
